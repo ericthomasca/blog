@@ -1,0 +1,36 @@
+baseURL: https://ericthomas.ca/
+languageCode: en-us
+title: Eric Thomas
+theme: PaperMod
+
+menu:
+  main:
+    - name: Posts
+      url: posts
+      weight: 10
+    - name: Tags
+      url: tags
+      weight: 20
+
+params:
+  title: Eric Thomas
+  subtitle: Software Developer, Newfoundland and Labrador, Canada
+  keywords: [Blog, Portfolio, PaperMod]
+  author: Eric Thomas
+
+  profileMode:
+    enabled: true
+    title: Eric Thomas
+    imageUrl: https://ericthomas.ca/assets/img/profile.png
+
+  socialIcons:
+    - name: github
+      url: https://github.com/ericthomasca
+    - name: linkedin
+      url: https://www.linkedin.com/in/ericthomasca/
+    - name: mastodon
+      url: https://fosstodon.org/@electrona
+    - name: cv
+      url: https://raw.githubusercontent.com/ericthomasca/resume/main/resume.pdf
+    - name: email
+      url: mailto:eric@ericthomas.ca
