@@ -21,7 +21,7 @@ params:
   profileMode:
     enabled: true
     title: Eric Thomas
-    imageUrl: https://ericthomas.ca/assets/img/profile.png
+    imageUrl: "/profile.png"
 
   socialIcons:
     - name: github
