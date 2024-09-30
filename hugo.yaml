@@ -22,6 +22,9 @@ params:
   ShowCodeCopyButtons: false
   ShowRssButtonInSectionTermList: true
 
+  assets:
+    disableFingerprinting: true
+
   editPost:
     URL: https://github.com/ericthomasca/blog/tree/main/content
     Text: Suggest Changes
