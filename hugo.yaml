@@ -8,9 +8,9 @@ menu:
     - name: Posts
       url: posts
       weight: 10
-    - name: Tags
-      url: tags
-      weight: 20
+    # - name: Tags
+    #   url: tags
+    #   weight: 20
 
 params:
   title: Eric Thomas
