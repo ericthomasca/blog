@@ -14,14 +14,24 @@ menu:
 
 params:
   title: Eric Thomas
-  subtitle: Software Developer, Newfoundland and Labrador, Canada
   keywords: [Blog, Portfolio, PaperMod]
   author: Eric Thomas
+
+  ShowShareButtons: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowRssButtonInSectionTermList: true
+
+  editPost:
+    URL: https://github.com/ericthomasca/blog/tree/main/content
+    Text: Suggest Changes
+    appendFilePath: true 
 
   profileMode:
     enabled: true
     title: Eric Thomas
-    imageUrl: "/profile.png"
+    subtitle: Full-Stack Software Developer, Newfoundland and Labrador, Canada
+    imageUrl: /profile.png
 
   socialIcons:
     - name: github
