@@ -3,6 +3,10 @@ languageCode: en-us
 title: Eric Thomas
 theme: PaperMod
 
+minify:
+  disableXML: true
+  minifyOutput: true
+
 menu:
   main:
     - name: Posts
@@ -21,17 +25,19 @@ menu:
       weight: 40
 
 params:
+  env: production
   title: Eric Thomas
   keywords: [Blog, Portfolio, PaperMod]
   author: Eric Thomas
 
   ShowShareButtons: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   ShowRssButtonInSectionTermList: true
 
   assets:
     disableFingerprinting: true
+    disableHLJS: true
 
   editPost:
     URL: https://github.com/ericthomasca/blog/tree/main/content
@@ -55,6 +61,16 @@ params:
       url: https://raw.githubusercontent.com/ericthomasca/resume/main/resume.pdf
     - name: email
       url: mailto:eric@ericthomas.ca
+
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
 
 outputs:
   home:
