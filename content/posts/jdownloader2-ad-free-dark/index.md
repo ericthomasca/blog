@@ -8,8 +8,6 @@ cover:
 draft: false
 ---
 
-![JDownloader2 in all it's ad-free and dark mode glory](jdownloader.png)
-
 To enhance your JDownloader 2 experience, navigate to Settings > Advanced Settings and adjust the parameters to create an ad-free environment and enable a sleek dark mode that looks better to me than the default options.
 
 | Key                                                                          | Value             |

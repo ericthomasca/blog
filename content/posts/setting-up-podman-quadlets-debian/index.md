@@ -8,8 +8,6 @@ cover:
 draft: false
 ---
 
-![Astronaut mural on containers](containers.png)
-
 In this guide, I’ll walk you through setting up a Debian home server with Cockpit and Quadlets. While this is the method that worked for me, I’m always open to improvements and suggestions. Future posts will cover how to configure specific Quadlets in detail. This setup assumes you already have a Debian server with SSH access and the backports repository enabled.
 
 Install Podman
