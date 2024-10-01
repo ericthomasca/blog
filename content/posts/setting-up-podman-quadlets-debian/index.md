@@ -28,7 +28,7 @@ Create a folder to holder the data and configs each service
 mkdir ~/services
 ```
 
-Let's create a quadlet for a Postgres database. Paste the following in a file `~/containers/postgres.container` replace `{USER}` with your server username and `{PASSWORD}` with a secure password, you can also change the Postgres username if you like. Replace `USER=1000` with the value of `id -u` and `GROUP=100` with the value of `id -g`. The `# vim: set filetype=systemd :` at the bottom allows the `.container` file to highlight like a `.service` file, which it essentially is.
+Let's create a quadlet for a Postgres database. Paste the following in a file `~/containers/postgres.container` replace `{USER}` with your server username and `{PASSWORD}` with a secure password, you can also change the Postgres username if you like. Replace `USER=1000` with the value of `id {USER} -u` and `GROUP=100` with the value of `id {USER} -g`. The `# vim: set filetype=systemd :` at the bottom allows the `.container` file to highlight like a `.service` file, which it essentially is.
 
 ```ini
 [Unit]
