@@ -3,7 +3,7 @@ title: Making JDownloader 2 Ad-Free and Enabling Dark Mode
 date: 2024-09-29T23:33:33-02:30
 tags: [JDownloader2, Ad Free, Dark Mode]
 cover:
-    image: cover.png
+    image: cover.webp
     relative: true
 draft: false
 ---

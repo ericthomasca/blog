@@ -3,7 +3,7 @@ title: Installing Jellyfin as a Podman Quadlet
 date: 2024-10-01T17:59:03-02:30
 tags: [Podman, Jellyfin, Selfhosting]
 cover:
-  image: cover.png
+  image: cover.webp
   relative: true
 draft: true
 ---

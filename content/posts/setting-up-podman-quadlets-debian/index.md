@@ -3,7 +3,7 @@ title: Setting Up Podman and Quadlets on Debian
 date: 2024-09-30T18:57:10-02:30
 tags: [Podman, Debian, Quadlets, Selfhosting]
 cover:
-    image: cover.png
+    image: cover.webp
     relative: true
 draft: false
 ---
