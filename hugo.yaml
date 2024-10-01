@@ -40,7 +40,10 @@ params:
     disableHLJS: true
 
   cover:
-    hiddenInList: true
+    hidden: false 
+    hiddenInList: false
+    hiddenInSingle: false
+
 
   editPost:
     URL: https://github.com/ericthomasca/blog/tree/main/content
