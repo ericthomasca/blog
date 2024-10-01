@@ -13,9 +13,12 @@ menu:
     - name: Tags
       url: tags
       weight: 20
+    - name: Archive
+      url: archive
+      weight: 30
     - name: Search
       url: search
-      weight: 30
+      weight: 40
 
 params:
   title: Eric Thomas
