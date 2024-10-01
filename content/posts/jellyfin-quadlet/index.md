@@ -64,4 +64,4 @@ sudo systemctl daemon-reload
 sudo systemctl start jellyfin.service
 ```
 
-You'll be able to access Jellyfin from [http://{SERVER_IP}:8096](http://{SERVER_IP}:8096).
+You'll be able to access Jellyfin from [http://{SERVER_IP}:8096](http://{SERVER_IP}:8096). Check the [linuxserver jellyfin github](https://hub.docker.com/r/linuxserver/jellyfin) for any extra configuration not covered in this guide.
