@@ -8,9 +8,14 @@ menu:
     - name: Posts
       url: posts
       weight: 10
-    # - name: Tags
-    #   url: tags
-    #   weight: 20
+    - name: Search
+      url: search
+    - name: Tags
+      url: tags
+      weight: 20
+    - name: Search
+      url: search
+      weight: 30
 
 params:
   title: Eric Thomas
@@ -47,3 +52,9 @@ params:
       url: https://raw.githubusercontent.com/ericthomasca/resume/main/resume.pdf
     - name: email
       url: mailto:eric@ericthomas.ca
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON 

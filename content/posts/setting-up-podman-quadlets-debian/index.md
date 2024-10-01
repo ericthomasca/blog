@@ -1,8 +1,8 @@
-+++
-title = 'Setting Up Podman and Quadlets on Debian'
-date = 2024-09-30T18:57:10-02:30
-draft = false
-+++
+---
+title: Setting Up Podman and Quadlets on Debian
+date: 2024-09-30T18:57:10-02:30
+draft: false
+---
 
 ![Astronaut mural on containers](containers.png)
 

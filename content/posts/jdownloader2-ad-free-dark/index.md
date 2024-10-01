@@ -1,8 +1,9 @@
-+++
-title = 'Making JDownloader 2 Ad-Free and Enabling Dark Mode'
-date = 2024-09-29T23:33:33-02:30
-draft = false
-+++
+---
+title: Making JDownloader 2 Ad-Free and Enabling Dark Mode
+date: 2024-09-29T23:33:33-02:30
+draft: false
+tags: ["JDownloader2", "Ad-free", "Dark Mode"]
+---
 
 ![JDownloader2 in all it's ad-free and dark mode glory](jdownloader.png)
 

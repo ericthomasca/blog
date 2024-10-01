@@ -1,8 +1,8 @@
-+++
-title = 'The Simpsons Halloween Watchlist'
-date = 2024-09-30T01:12:33-02:30
-draft = false
-+++
+---
+title: The Simpsons Halloween Watchlist
+date: 2024-09-30T01:12:33-02:30
+draft: false
+---
 
 ![The Simpsons Halloween Watchlist](simpsons-halloween-watchlist.png)
 
