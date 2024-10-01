@@ -39,6 +39,9 @@ params:
     disableFingerprinting: true
     disableHLJS: true
 
+  cover:
+    hidden: true
+
   editPost:
     URL: https://github.com/ericthomasca/blog/tree/main/content
     Text: Suggest Changes
@@ -66,11 +69,6 @@ pygmentsUseClasses: true
 markup:
   highlight:
     noClasses: false
-    # anchorLineNos: true
-    # codeFences: true
-    # guessSyntax: true
-    # lineNos: true
-    # style: monokai
 
 outputs:
   home:

@@ -2,6 +2,9 @@
 title: The Simpsons Halloween Watchlist
 date: 2024-09-30T01:12:33-02:30
 tags: [Printable, PDF, The Simpsons, Halloween]
+cover:
+    image: simpsons-halloween-watchlist.png
+    relative: true
 draft: false
 ---
 
