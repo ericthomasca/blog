@@ -5,7 +5,7 @@ tags: [Podman, Jellyfin, Selfhosting]
 cover:
   image: cover.webp
   relative: true
-draft: true
+draft: false
 ---
 
 Jellyfin is everyone's favourite open-source multimedia player. This guide goes over how to install it as a Podman Quadlet. This assumes you already have Podman setup for Quadlets. Follow [this guide](/posts/setting-up-podman-quadlets-debian) to setup Podman for Quadlets.
