@@ -61,7 +61,7 @@ If your editor of choice is vim/nvim you can add `# vim: set filetype=systemd :`
 
 ### Start the service
 
-You may have to create the directories on the host machine mentioned in you `.container` files to prevent errors. If there is a way aroud this, I don't know it. I also recommend a folder like my `services` folder, just to keep things organized
+You may have to create the directories on the host machine mentioned in you `.container` files to prevent errors. If there is a way aroud this, I don't know it. I also recommend a folder like my `services` folder, just to keep things organized.
 
 Reload systemd so it sees the service, start, and check the service.
 
