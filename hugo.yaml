@@ -58,12 +58,17 @@ params:
 
   socialIcons:
     - name: github
+      title: GitHub
       url: https://github.com/ericthomasca
     - name: linkedin
-      url: https://www.linkedin.com/in/ericthomasca/
+      title: LinkedIn
+      url: https://www.linkedin.com/in/ericthomasca
+    - name: bluesky
+      url: https://bsky.app/profile/ericthomas.ca
     - name: mastodon
       url: https://fosstodon.org/@electrona
     - name: cv
+      title: Resume
       url: https://raw.githubusercontent.com/ericthomasca/resume/main/resume.pdf
     - name: email
       url: mailto:eric@ericthomas.ca
