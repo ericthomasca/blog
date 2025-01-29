@@ -57,6 +57,8 @@ params:
     imageUrl: /profile.png
 
   socialIcons:
+    - name: email
+      url: mailto:eric@ericthomas.ca
     - name: github
       title: GitHub
       url: https://github.com/ericthomasca
@@ -64,14 +66,14 @@ params:
       url: https://bsky.app/profile/ericthomas.ca
     - name: mastodon
       url: https://fosstodon.org/@electrona
+    - name: itchio
+      url: https://electrona.itch.io/
     - name: linkedin
       title: LinkedIn
       url: https://www.linkedin.com/in/ericthomasca
     - name: cv
       title: Resume
       url: https://raw.githubusercontent.com/ericthomasca/resume/main/resume.pdf
-    - name: email
-      url: mailto:eric@ericthomas.ca
 
 pygmentsUseClasses: true
 markup:
